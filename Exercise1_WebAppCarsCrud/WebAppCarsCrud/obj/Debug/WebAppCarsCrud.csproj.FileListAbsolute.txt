@@ -190,7 +190,6 @@ D:\GitHub\Test_HealthEquity\Exercise1_WebAppCarsCrud\WebAppCarsCrud\bin\es\Syste
 D:\GitHub\Test_HealthEquity\Exercise1_WebAppCarsCrud\WebAppCarsCrud\bin\es\System.Web.WebPages.resources.dll
 D:\GitHub\Test_HealthEquity\Exercise1_WebAppCarsCrud\WebAppCarsCrud\bin\es\System.Web.WebPages.Deployment.resources.dll
 D:\GitHub\Test_HealthEquity\Exercise1_WebAppCarsCrud\WebAppCarsCrud\bin\es\System.Web.WebPages.Razor.resources.dll
-D:\GitHub\Test_HealthEquity\Exercise1_WebAppCarsCrud\WebAppCarsCrud\obj\Debug\WebAppCarsCrud.csproj.AssemblyReference.cache
 D:\GitHub\Test_HealthEquity\Exercise1_WebAppCarsCrud\WebAppCarsCrud\obj\Debug\WebAppCarsCrud.csproj.CoreCompileInputs.cache
 D:\GitHub\Test_HealthEquity\Exercise1_WebAppCarsCrud\WebAppCarsCrud\obj\Debug\WebAppCarsCrud.csproj.CopyComplete
 D:\GitHub\Test_HealthEquity\Exercise1_WebAppCarsCrud\WebAppCarsCrud\obj\Debug\WebAppCarsCrud.dll
